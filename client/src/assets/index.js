@@ -3,44 +3,23 @@ import elysium from './background/elysium.jpg';
 import tartarus from './background/tartarus.jpg';
 import asphodel from './background/asphodel.jpg';
 import sunset from './background/sunset.png';
-import saiman from './background/saiman.jpg';
-import astral from './background/astral.jpg';
-import eoaalien from './background/eoaalien.jpg';
-import panight from './background/panight.jpg';
-import heroImg from './background/hero-img.jpg';
 import zagreusImg from './background/zagreus-img.png';
 
 // cards
-import ace from './Ace.png';
-import bakezori from './Bakezori.png';
-import blackSolus from './Black_Solus.png';
-import calligrapher from './Calligrapher.png';
-import chakriAvatar from './Chakri_Avatar.png';
-import coalfist from './Coalfist.png';
-import desolator from './Desolator.png';
-import duskRigger from './Dusk_Rigger.png';
-import flamewreath from './Flamewreath.png';
-import furiosa from './Furiosa.png';
-import geomancer from './Geomancer.png';
-import goreHorn from './Gore_Horn.png';
-import heartseeker from './Heartseeker.png';
-import jadeMonk from './Jade_Monk.png';
-import kaidoExpert from './Kaido_Expert.png';
-import katara from './Katara.png';
-import kiBeholder from './Ki_Beholder.png';
-import kindling from './Kindling.png';
-import lanternFox from './Lantern_Fox.png';
-import mizuchi from './Mizuchi.png';
-import orizuru from './Orizuru.png';
-import scarletViper from './Scarlet_Viper.png';
-import stormKage from './Storm_Kage.png';
-import suzumebachi from './Suzumebachi.png';
-import tuskBoar from './Tusk_Boar.png';
-import twilightFox from './Twilight_Fox.png';
-import voidTalon from './Void_Talon.png';
-import whiplash from './Whiplash.png';
-import widowmaker from './Widowmaker.png';
-import xho from './Xho.png';
+import knight from './Knight.jpg';
+import scandinavionWarrior from './ScandinavianWarrior.jpg';
+import satoshiNakamoto from './SatoshiNakamoto.jpg';
+import coldNight from './ColdNight.jpg';
+import goblinMystic from './GoblinMystic.jpg';
+import goblinShaman from './GoblinShaman.jpg';
+import goblinWoodcutter from './GoblinWoodcutter.jpg';
+import ohMyMan from './OhMyMan.jpg';
+import anya from './Anya.jpg';
+import gigachad from './Gigachad.jpg';
+import shadow from './Shadow.jpg';
+import vasserman from './Vasserman.jpg';
+import dickSlayer from './DickSlayer.jpg';
+
 
 // logo
 import logo from './logo.svg';
@@ -61,36 +40,22 @@ import defenseSound from './sounds/defense.mp3';
 import explosion from './sounds/explosion.mp3';
 
 export const allCards = [
-  ace,
-  bakezori,
-  blackSolus,
-  calligrapher,
-  chakriAvatar,
-  coalfist,
-  desolator,
-  duskRigger,
-  flamewreath,
-  furiosa,
-  geomancer,
-  goreHorn,
-  heartseeker,
-  jadeMonk,
-  kaidoExpert,
-  katara,
-  kiBeholder,
-  kindling,
-  lanternFox,
-  mizuchi,
-  orizuru,
-  scarletViper,
-  stormKage,
-  suzumebachi,
-  tuskBoar,
-  twilightFox,
-  voidTalon,
-  whiplash,
-  widowmaker,
-  xho,
+  knight,
+  scandinavionWarrior,
+  satoshiNakamoto,
+  coldNight,
+  goblinMystic,
+  goblinShaman,
+  goblinWoodcutter,
+  ohMyMan,
+  anya,
+  gigachad,
+  shadow,
+  vasserman,
+  dickSlayer,
+  dickSlayer,
+  dickSlayer,
+  dickSlayer,
 ];
 
 export {
@@ -98,43 +63,21 @@ export {
   asphodel,
   elysium,
   sunset,
-  saiman,
-  astral,
-  eoaalien,
-  panight,
-  heroImg,
   zagreusImg,
 
-  ace,
-  bakezori,
-  blackSolus,
-  calligrapher,
-  chakriAvatar,
-  coalfist,
-  desolator,
-  duskRigger,
-  flamewreath,
-  furiosa,
-  geomancer,
-  goreHorn,
-  heartseeker,
-  jadeMonk,
-  kaidoExpert,
-  katara,
-  kiBeholder,
-  kindling,
-  lanternFox,
-  mizuchi,
-  orizuru,
-  scarletViper,
-  stormKage,
-  suzumebachi,
-  tuskBoar,
-  twilightFox,
-  voidTalon,
-  whiplash,
-  widowmaker,
-  xho,
+  knight,
+  scandinavionWarrior,
+  satoshiNakamoto,
+  coldNight,
+  goblinMystic,
+  goblinShaman,
+  goblinWoodcutter,
+  ohMyMan,
+  anya,
+  gigachad,
+  shadow,
+  vasserman,
+  dickSlayer,
 
   logo,
 
