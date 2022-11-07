@@ -1,9 +1,9 @@
 const styles = {
   // general
-  headText: 'font-rajdhani font-bold text-white sm:text-6xl text-4xl',
-  normalText: 'font-rajdhani font-normal text-[24px] text-siteWhite',
-  footerText: 'font-rajdhani font-medium text-base text-white',
-  infoText: 'font-rajdhani font-medium text-lg text-siteViolet cursor-pointer',
+  headText: 'font-rajdhani font-bold text-red-800  sm:text-6xl text-4xl',
+  normalText: 'font-rajdhani font-normal text-[24px] text-violet-400',
+  footerText: 'font-rajdhani font-medium text-base text-red-600',
+  infoText: 'font-rajdhani font-medium text-lg text-red-800 cursor-pointer',
 
   // glassmorphism
   glassEffect: 'bg-white backdrop-filter backdrop-blur-lg bg-opacity-10',
@@ -11,14 +11,14 @@ const styles = {
   // hoc page
   hocContainer: 'min-h-screen flex xl:flex-row flex-col relative',
   hocContentBox: 'flex flex-1 justify-between bg-siteblack py-8 sm:px-12 px-8 flex-col',
-  hocLogo: 'w-[160px] h-[52px] object-contain cursor-pointer',
+  hocLogo: 'w-[52px] h-[52px] object-contain cursor-pointer',
   hocBodyWrapper: 'flex-1 flex justify-center flex-col xl:mt-0 my-16',
 
   // join battle page
-  joinHeadText: 'font-rajdhani font-semibold text-2xl text-white mb-3',
+  joinHeadText: 'font-rajdhani font-semibold text-2xl text-siteViolet mb-3',
   joinContainer: 'flex flex-col gap-3 mt-3 mb-5',
-  joinBattleTitle: 'font-rajdhani font-normal text-xl text-white',
-  joinLoading: 'font-rajdhani font-normal text-xl text-white',
+  joinBattleTitle: 'font-rajdhani font-normal text-xl text-violet-400',
+  joinLoading: 'font-rajdhani font-normal text-xl text-red-800',
 
   // battleground page
   battlegroundContainer: 'min-h-screen bg-landing flex-col py-12 px-4',
